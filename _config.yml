@@ -8,18 +8,19 @@ middle_name: (Adam)
 last_name: Hahn
 email: sjhahn11512@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Seok-Ju's Page 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: # add your own keywords or leave empty
+keywords: federated learning, machine learning for science # add your own keywords or leave empty
 lang: en, kr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 😎 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://vaseline555.github.io
 baseurl:
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+back_to_top: false # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -38,7 +39,7 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -46,7 +47,7 @@ rss_icon: true
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
-socials_in_search: true
+socials_in_search: false
 
 # Dimensions
 max_width: 930px
@@ -105,7 +106,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Please contact me via email(sjhahn11512@gmail.com). Thank you!
+  © Seok-Ju Hahn. 2024.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -171,15 +172,15 @@ disqus_shortname: vaseline555 # put your disqus shortname
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+# collections:
+#  news:
+#    defaults:
+#      layout: post
+#    output: true
+#    permalink: /news/:path/
+#  projects:
+#    output: true
+#    permalink: /projects/:path/
 
 announcements:
   enabled: true

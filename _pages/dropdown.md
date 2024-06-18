@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: false
+nav: false # disable submenu
 nav_order: 8
 dropdown: false
 children:
