@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: © Seok-Ju Hahn. 2024.
 keywords: federated learning, machine learning for science # add your own keywords or leave empty
 lang: en, kr # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: :sunglasses: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 😎 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://vaseline555.github.io
 baseurl:
