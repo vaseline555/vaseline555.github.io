@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #  <p>555 your office number</p>
+  #  <p>123 your address street</p>
+  #  <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Seok-Ju has recently recevied his Ph.D. (2024) in Industrial Engineering at Ulsan National Institute of Science and Technology (UNIST; Republic of Korea :KR:), advised by Prof. [Junghye Lee](https://d3mlab.snu.ac.kr/members/professor) and Prof. [Gi-Soo Kim](https://sdm.unist.ac.kr/members/). 
+He received his undergraduate (2019) and B.S. (2021) degrees in Industrial Engineering from UNIST.
+He is now a postdoctoral researcher at the Institute of Engineering Research, Seoul National University (SNU; Republic of Korea :KR:).
+Concurrently, he has been conscripted into the Republic of Korea Army as a technical research personnel since Sep. 2022. (Date of discharge: Aug. 2025)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Here are research keywords of Seok-Ju: `Federated Learning`; `Machine Learning for Science`. 
+Seok-Ju is interested in solving various problems that are ubiquitous in practical federated learning algorithms.
+His dissertation particularly focused on mitigating statistical heterogeneity in federated learning through three different perspectives: parameters, mixing coefficients, and local distributions. 
+He also offered challenges to solve real-world problems with machine learning: predictive modeling for industrial processes and services and for a scientific method.  
