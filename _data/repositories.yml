@@ -2,10 +2,7 @@ github_users:
   - vaseline555
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - vaseline555/Federated-Learning-in-PyTorch
+  - vaseline555/SuPerFed
+  - vaseline555/AAggFF
+  - vaseline555/FedEvg

@@ -9,7 +9,7 @@ last_name: Hahn
 email: sjhahn11512@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Seok-Ju's Page 
-footer_text: © Seok-Ju Hahn. 2024.
+footer_text: 
 keywords: federated learning, machine learning for science # add your own keywords or leave empty
 lang: en, kr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 😎 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -43,7 +43,7 @@ rss_icon: false
 # Layout
 # -----------------------------------------------------------------------------
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: false
 
