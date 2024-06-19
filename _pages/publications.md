@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: >
-    Brown - Conferences / Blue - Journals / Red - Preprints <br>
+    Olive: Conferences / Teal: Journals / Maroon: Preprints <br>
     (*: equal contribution)
 nav: true
 nav_order: 1
