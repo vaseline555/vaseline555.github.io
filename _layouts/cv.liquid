@@ -2,5 +2,16 @@
 layout: default
 ---
 <div class="post">
-  <object data="../assets/pdf/CV_Seok-Ju.pdf#pagemode=none" width="750" height="1000" type='application/pdf'></object>
+  <header class="post-header">
+    <h1 class="post-title">
+      {{ page.title }}
+    </h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  <article>
+    <div class="cv">
+      <object data="../assets/pdf/CV_Seok-Ju.pdf#pagemode=none" width="750" height="1000" type='application/pdf'></object>
+    </div>
+  </article>
 </div>
