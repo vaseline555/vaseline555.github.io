@@ -10,7 +10,7 @@
 # journals
 "EBIOM":
   url: https://www.thelancet.com/journals/ebiom/home
-  color: "#teal"
+  color: "#008080"
 
 # arXiv
 "arXiv":
