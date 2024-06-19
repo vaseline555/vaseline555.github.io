@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[AAggFF](https://arxiv.org/abs/2405.20821) is accepted to ICML 2024 :partying_face:. See you in Vienna, Austria :austria:!
+[AAggFF](https://arxiv.org/abs/2405.20821) is accepted to ICML 2024! :partying_face: See you in Vienna, Austria :austria:!

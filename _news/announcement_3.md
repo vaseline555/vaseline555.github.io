@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have successfully defended my thesis, <em>A Triology of Approaches for Tackling Statistical Heterogeneity in Federated Learning</em> :partying_face:.
+I have successfully defended my thesis, <em>A Triology of Approaches for Tackling Statistical Heterogeneity in Federated Learning</em>! :partying_face:

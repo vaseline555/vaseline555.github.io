@@ -164,7 +164,7 @@
     </div>
     <div class="periodical">
       {% if entry.note %}
-        {{"* NOTE: "}}{{entry.note | markdownify | remove: '<p>' | remove: '</p>' | strip}}
+        [{{"* NOTE: "}}{{entry.note | markdownify | remove: '<p>' | remove: '</p>' | strip}}]
       {% endif %}
     </div>
     <div class="periodical">

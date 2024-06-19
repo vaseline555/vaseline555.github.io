@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[CAFO](https://arxiv.org/abs/2406.018331) is accepted to KDD 2024 :partying_face:. See you in Barcelona, Spain :spain:!
+[CAFO](https://arxiv.org/abs/2406.018331) is accepted to KDD 2024! :partying_face: See you in Barcelona, Spain :flag-es:!
