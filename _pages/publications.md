@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: >
-    Publications in reversed chronological order. 
+    Publications in reversed chronological order. <br>
     (Brown - Conferences / Blue - Journals / Red - Preprints)
 nav: true
 nav_order: 1
