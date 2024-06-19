@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: >
-    Publications in reversed chronological order. (*: equal contribution) <br>
-    (Brown - Conferences / Blue - Journals / Red - Preprints) <br>
+    Brown - Conferences / Blue - Journals / Red - Preprints <br>
+    (*: equal contribution)
 nav: true
 nav_order: 1
 ---

@@ -2,14 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:
+title: Seok-Ju's Page
 subtitle: 
 first_name: Seok-Ju
 middle_name:
 last_name: Hahn (Adam)
 email: sjhahn11512@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Seok-Ju's Page 
+description: Seok-Ju's Page 
 footer_text: 
 keywords: federated learning, machine learning for science # add your own keywords or leave empty
 lang: en, kr # the language of your site (for example: en, fr, cn, ru, etc.)

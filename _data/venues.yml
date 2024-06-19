@@ -1,11 +1,11 @@
 # conferences
 "ICML":
   url: https://proceedings.mlr.press
-  color: "##1a687b"
+  color: "#1a687b"
 
 "KDD":
   url: https://dl.acm.org/conference/kdd
-  color: "##1a687b"
+  color: "#1a687b"
 
 # journals
 "EBIOM":
