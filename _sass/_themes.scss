@@ -4,11 +4,11 @@
 
 :root {
   --global-bg-color: #{$white-color};
-  --global-code-bg-color: #{$code-bg-color-light};
+  --global-code-bg-color: rgba(240, 148, 11, 0.267);
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #eb7d0fe5;
-  --global-hover-color: #eb7d0fe5;
+  --global-theme-color: #c4670ae5;
+  --global-hover-color: #c4670ae5;
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
