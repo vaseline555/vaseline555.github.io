@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Seok-Ju Hahn
+title: Seok-Ju Hahn (Adam)
 first_name: Seok-Ju
-middle_name: (Adam)
+middle_name:
 last_name: Hahn
 email: sjhahn11512@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -335,6 +335,7 @@ filtered_bibtex_keywords:
     blog,
     code,
     html,
+    note,
     pdf,
     poster,
     preview,
