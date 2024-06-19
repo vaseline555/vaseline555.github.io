@@ -168,11 +168,13 @@
     </div>
     <div class="periodical">
       {% if entry.note %}
-        {{"* Note:"}}{{entry.note | markdownify | remove: '<p>' | remove: '</p>' | strip}}
+        {{"* Note: "}}{{entry.note | markdownify | remove: '<p>' | remove: '</p>' | strip}}
       {% endif %}
     </div>
     <div class="periodical">
-      <p>({{ "acceptance rate=" }}{{entry.accept_rate}}{{"%"}})</p>
+      {% if entry.accept_rate %}
+        <p>({{ "acceptance rate=" }}{{entry.accept_rate}}{{"%"}})</p>
+      {% endif %}
     </div>
 
     <!-- Links/Buttons -->

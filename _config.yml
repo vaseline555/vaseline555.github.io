@@ -291,8 +291,8 @@ display_categories: # ["external-services"] # these categories will be displayed
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: Seok-Ju
-  first_name: Hahn
+  last_name: [Seok-Ju]
+  first_name: [Hahn]
 
   style: apa
   locale: en
