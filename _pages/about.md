@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: #
+subtitle: (Pronunciation - Suck-Zoo Haan)
 
 profile:
   align: left

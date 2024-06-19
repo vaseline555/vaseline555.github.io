@@ -67,6 +67,7 @@
         {%- endif -%}
         {% assign coauthor_url = null %}
         {%- assign clean_last_name = author_last_name | downcase | remove_accents -%}
+        {{site.data.coauthors}}{{"MUYAHO"}}
         {% if site.data.coauthors[clean_last_name] %}
           {%- for coauthor in site.data.coauthors[clean_last_name] -%}
             {% if coauthor.firstname contains author.first %}
@@ -81,10 +82,7 @@
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
         {%- if author_is_self -%}
-          <u>
-            {{- author.first }}
-            {{ author.last -}}
-          </u>
+          <u>{{- author.first }}{{ author.last -}}</u>
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{coauthor_url}}">
