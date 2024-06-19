@@ -1,31 +1,27 @@
-"Jaeho":
+"jaeho":
   - firstname: ["Kim"]
     url: https://sites.google.com/view/jaeho-kim
 
-"Yoontae":
+"yoontae":
   - firstname: ["Hwang"]
     url: https://yoontae6719.github.io
 
-"Suhyeon":
+"suhyeon":
   - firstname: ["Kim"]
     url: https://sites.google.com/view/suhyeon-kim/home
 
-"Junghye":
+"junghye":
   - firstname: ["Lee"]
     url: https://d3mlab.snu.ac.kr
 
-"Gi-Soo":
+"gi-soo":
   - firstname: ["Kim"]
     url: https://sdm.unist.ac.kr
 
-"Seulki":
+"seulki":
   - firstname: ["Lee"]
     url: https://sites.google.com/view/embeddedai
 
-"Minwoo":
+"minwoo":
   - firstname: ["Jeong"]
     url: https://kr.linkedin.com/in/minwoojeong
-
-"Jihun"
-  - firstname: ["Kang"]
-    url: https://www.kosinmed.or.kr/03dept/dept01.htm?mode=do_detail&i_no=30&i_dno=519
