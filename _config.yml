@@ -180,6 +180,12 @@ disqus_shortname: vaseline555 # put your disqus shortname
 #    output: true
 #    permalink: /projects/:path/
 
+news:
+  defaults:
+    layout: post
+  output: true
+  permalink: /news/:path/
+
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
