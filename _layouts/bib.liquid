@@ -167,7 +167,10 @@
       {{ periodical | strip }}
     </div>
     <div class="periodical">
-      {{ entry.note | strip }}
+      ({{entry.note | markdownify | remove: '<p>' | remove: '</p>' | strip}})
+    </div>
+    <div class="periodical">
+      {{ "acceptance rate=" }}{{entry.accept_rate}}{{"%"}})
     </div>
 
     <!-- Links/Buttons -->
