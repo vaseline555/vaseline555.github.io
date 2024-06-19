@@ -8,7 +8,7 @@ profile:
   align: left
   image: profile.jpg
   image_circular: false # crops the image to make it circular
-   more_info: >
+  more_info: >
     <p>(Pronunciation: Suck-Zoo Haaan)</p>
     <p>(Korean name: 한석주)</p>
     <p>You can call me Adam!</p>
