@@ -1,34 +1,27 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"jaeho":
+  - firstname: ["Jaeho Kim"]
+    url: https://sites.google.com/view/jaeho-kim
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"yoontae":
+  - firstname: ["Yoontae Hwang"]
+    url: https://yoontae6719.github.io
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"suhyeon":
+  - firstname: ["Suhyeon Kim"]
+    url: https://sites.google.com/view/suhyeon-kim/home
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"junghye":
+  - firstname: ["Junghye Lee"]
+    url: https://d3mlab.snu.ac.kr
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"gisoo":
+  - firstname: ["Gi-Soo Kim"]
+    url: https://sdm.unist.ac.kr
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"seulki":
+  - firstname: ["Seulki Lee"]
+    url: https://sites.google.com/view/embeddedai
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"minwoo":
+  - firstname: ["Minwoo Jeong"]
+    url: https://kr.linkedin.com/in/minwoojeong

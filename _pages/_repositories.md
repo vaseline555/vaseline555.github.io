@@ -1,3 +1,5 @@
+# remove underscore if you want to activate `repositories` menu!
+
 ---
 layout: page
 permalink: /repositories/

@@ -1,11 +1,15 @@
 "ICML":
   url: https://proceedings.mlr.press
-  color: "#00369f"
+  color: "#009f36"
 
 "KDD":
   url: https://dl.acm.org/conference/kdd
   color: "#009f36"
 
-"eBioMedicine":
+"EBIOM":
   url: https://www.thelancet.com/journals/ebiom/home
+  color: "#009f36"
+
+"arXiv":
+  url: https://arxiv.org
   color: "#a3cf4b"
