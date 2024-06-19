@@ -8,10 +8,10 @@ profile:
   align: left
   image: profile.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #  <p>555 your office number</p>
-  #  <p>123 your address street</p>
-  #  <p>Your City, State 12345</p>
+   more_info: >
+    <p>(Pronunciation: Suck-Zoo Haaan)</p>
+    <p>(Korean name: 한석주)</p>
+    <p>You can call me Adam!</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,6 +24,6 @@ He received his B.S. (2019.02) and M.S. (2021.02) degrees in Industrial Engineer
 
 He is now a postdoctoral researcher at the Institute of Engineering Research, Seoul National University ([SNU](https://ioer.snu.ac.kr); Republic of Korea).
 
-Concurrently, he has been conscripted into the Republic of Korea Army as a [Technical Research Personnel](https://elaw.klri.re.kr/kor_service/jomunPrint.do?hseq=10572&cseq=235795) (2022.09). (Date of discharge: 2025.08)
+Concurrently, he has been conscripted into the Republic of Korea Army as a [Technical Research Personnel](https://elaw.klri.re.kr/kor_service/jomunPrint.do?hseq=10572&cseq=235795) (2022.09). (Date of Discharge: 2025.08)
 
 His research interests include `Federated Learning` and `Machine Learning for Science`. 
