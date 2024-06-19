@@ -162,7 +162,7 @@
       {% include hook/bib.liquid %}
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
-    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{{"."}}{% endcapture %}
     <div class="periodical">
       {{ periodical | strip }}
     </div>
@@ -170,7 +170,7 @@
       ({{entry.note | markdownify | remove: '<p>' | remove: '</p>' | strip}})
     </div>
     <div class="periodical">
-      {{ "acceptance rate=" }}{{entry.accept_rate}}{{"%"}})
+      <em>{{ "acceptance rate=" }}{{entry.accept_rate}}{{"%"}})</em>
     </div>
 
     <!-- Links/Buttons -->
