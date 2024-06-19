@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Seok-Ju Hahn (Adam)",
-    "pronounciation": "(Suck-Zoo Haan)",
+    "pronunciation": "(Suck-Zoo Haan)",
     "image": "",
     "email": "sjhahn11512@gmail.com",
     "interests": "Federated Learning; Machine Learning for Science"
   },
   "education": [
     {
-      "institution": "Ulsan National Institute of Science and Technology (UNIST), Ulsan, Republic of Korea",
+      "institution": "Ulsan National Institute of Science and Technology (UNIST)",
       "location": "Ulsan, South Korea",
       "url": "https://www.unist.ac.kr/",
       "major": "Industrial Engineering",
@@ -17,7 +17,7 @@
       "endDate": "2024-08-16"
     },
     {
-      "institution": "Ulsan National Institute of Science and Technology (UNIST), Ulsan, Republic of Korea",
+      "institution": "Ulsan National Institute of Science and Technology (UNIST)",
       "location": "Ulsan, South Korea",
       "url": "https://www.unist.ac.kr/",
       "major": "Industrial Engineering",
@@ -26,24 +26,13 @@
       "endDate": "2021-02-18"
     },
     {
-      "institution": "Ulsan National Institute of Science and Technology (UNIST), Ulsan, Republic of Korea",
+      "institution": "Ulsan National Institute of Science and Technology (UNIST)",
       "location": "Ulsan, South Korea",
       "url": "https://www.unist.ac.kr/",
       "major": "Industrial Engineering",
       "studyType": "BS",
       "startDate": "2015-03-02",
       "endDate": "2019-02-12"
-    }
-  ],
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
     }
   ],
   "languages": [
