@@ -18,11 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Seok-Ju has recently recevied his Ph.D. (2024) in Industrial Engineering at Ulsan National Institute of Science and Technology (UNIST; Republic of Korea), advised by Prof. [Junghye Lee](https://d3mlab.snu.ac.kr/members/professor) and Prof. [Gi-Soo Kim](https://sdm.unist.ac.kr/members/). 
+Seok-Ju has recently recevied his Ph.D. (2024.08) in Industrial Engineering at Ulsan National Institute of Science and Technology ([UNIST](https://www.unist.ac.kr); Republic of Korea), advised by Prof. [Junghye Lee](https://d3mlab.snu.ac.kr/members/professor) and Prof. [Gi-Soo Kim](https://sdm.unist.ac.kr/members/). 
 
-He received his undergraduate (2019) and B.S. (2021) degrees in Industrial Engineering from UNIST.
-He is now a postdoctoral researcher at the Institute of Engineering Research, Seoul National University (SNU; Republic of Korea).
+He received his B.S. (2019.02) and M.S. (2021.02) degrees in Industrial Engineering from UNIST.
 
-Concurrently, he has been conscripted into the Republic of Korea Army as a technical research personnel since Sep. 2022. (Date of discharge: Aug. 2025)
+He is now a postdoctoral researcher at the Institute of Engineering Research, Seoul National University ([SNU](https://ioer.snu.ac.kr); Republic of Korea).
+
+Concurrently, he has been conscripted into the Republic of Korea Army as a [Technical Research Personnel](https://elaw.klri.re.kr/kor_service/jomunPrint.do?hseq=10572&cseq=235795) (2022.09). (Date of discharge: 2025.08)
 
 Here are research keywords: `Federated Learning`; `Machine Learning for Science`. 
