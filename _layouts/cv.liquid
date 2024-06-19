@@ -7,10 +7,11 @@ layout: default
     {% if page.description %}
       <p class="post-description">{{ page.description }}</p>
     {% endif %}
+  </header>
   <article>
     <div class="cv">
       <object data="../assets/pdf/CV_Seok-Ju.pdf" frameborder="0" width="100%" height="600px" style="padding: 20px;" type="application/pdf">
-        <embed src="../assets/pdf/CV_Seok-Ju.pdf" type="application/pdf" />
+        <param name="src" value="../assets/pdf/CV_Seok-Ju.pdf">
       </object>
     </div>
   </article>
