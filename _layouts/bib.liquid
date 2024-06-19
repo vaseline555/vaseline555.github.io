@@ -80,15 +80,22 @@
           {% if forloop.first == false %},&nbsp;{% endif %}
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
-        {% if author_is_self %}
-            and <em>{{author.first}} {{author.last}}</em>
-        {% else %}
-            {% if coauthor_url %}
-                and <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>
-            {% else %}
-                and {{author.first}} {{author.last}}
-            {% endif %}
-        {% endif %}
+        {%- if author_is_self -%}
+          <u>
+            {{- author.first }}
+            {{ author.last -}}
+          </u>
+        {%- else -%}
+          {%- if coauthor_url -%}
+            <a href="{{coauthor_url}}">
+              {{- author.first }}
+              {{ author.last -}}
+            </a>
+          {%- else -%}
+            {{- author.first }}
+            {{ author.last -}}
+          {% endif %}
+        {%- endif -%}
       {% endfor %}
       {%- assign more_authors = author_array_size | minus: author_array_limit -%}
 
@@ -166,7 +173,7 @@
     </div>
     <div class="periodical">
       {% if entry.accept_rate %}
-        <h6>({{ "acceptance rate=" }}<u>{{entry.accept_rate}}{{"%"}}</u>)</h6>
+        <h6>({{ "acceptance rate=" }}<u>{{entry.accept_rate}}</u>{{"%"}})</h6>
       {% endif %}
     </div>
 
