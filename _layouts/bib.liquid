@@ -60,7 +60,6 @@
       {%- for author in entry.author_array limit: author_array_limit -%}
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | remove: '¶' | remove: '&' | remove: '*' | remove: '†' | remove: '^' -%}
-        {{author.first}}{{"11"}}{{author.last}}{{"22"}}{{site.scholar.last_name}}{{"33"}}{{site.scholar.first_name}}{{"44"}}
         {% if site.scholar.last_name contains author_last_name %}
           {% if site.scholar.first_name contains author.first %}
             {% assign author_is_self = true %}
@@ -81,22 +80,15 @@
           {% if forloop.first == false %},&nbsp;{% endif %}
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
-        {%- if author_is_self -%}
-          <em>
-            {{- author.first }}
-            {{ author.last -}}
-          </em>
-        {%- else -%}
-          {%- if coauthor_url -%}
-            <a href="{{coauthor_url}}">
-              {{- author.first }}
-              {{ author.last -}}
-            </a>
-          {%- else -%}
-            {{- author.first }}
-            {{ author.last -}}
-          {% endif %}
-        {%- endif -%}
+        {% if author_is_self %}
+            and <em>{{author.first}} {{author.last}}</em>
+        {% else %}
+            {% if coauthor_url %}
+                and <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>
+            {% else %}
+                and {{author.first}} {{author.last}}
+            {% endif %}
+        {% endif %}
       {% endfor %}
       {%- assign more_authors = author_array_size | minus: author_array_limit -%}
 
