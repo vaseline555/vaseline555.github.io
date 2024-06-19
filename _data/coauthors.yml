@@ -1,27 +1,27 @@
 "jaeho":
-  - firstname: ["Jaeho Kim"]
+  - firstname: ["Jaeho Kim", "Kim, Jaeho"]
     url: https://sites.google.com/view/jaeho-kim
 
 "yoontae":
-  - firstname: ["Yoontae Hwang"]
+  - firstname: ["Yoontae Hwang", "Hwang, Yoontae"]
     url: https://yoontae6719.github.io
 
 "suhyeon":
-  - firstname: ["Suhyeon Kim"]
+  - firstname: ["Suhyeon Kim", "Kim, Suhyeon"]
     url: https://sites.google.com/view/suhyeon-kim/home
 
 "junghye":
-  - firstname: ["Junghye Lee"]
+  - firstname: ["Junghye Lee", "Lee, Junghye"]
     url: https://d3mlab.snu.ac.kr
 
 "gisoo":
-  - firstname: ["Gi-Soo Kim"]
+  - firstname: ["Gi-Soo Kim", "Kim, Gi-Soo"]
     url: https://sdm.unist.ac.kr
 
 "seulki":
-  - firstname: ["Seulki Lee"]
+  - firstname: ["Seulki Lee", "Lee, Seulki"]
     url: https://sites.google.com/view/embeddedai
 
 "minwoo":
-  - firstname: ["Minwoo Jeong"]
+  - firstname: ["Minwoo Jeong", "Jeong, Minwoo"]
     url: https://kr.linkedin.com/in/minwoojeong
