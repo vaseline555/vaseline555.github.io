@@ -59,8 +59,8 @@
 
       {%- for author in entry.author_array limit: author_array_limit -%}
         {% assign author_is_self = false %}
-        {%- assign author_last_name = author.last | remove: '¶' | remove: '&' | remove: '*' | remove: '†' | remove: '^' -%}
-        {%- assign author_first_name = author.first | remove: '*' -%}
+        {%- assign author_last_name = author.first | remove: '¶' | remove: '&' | remove: '*' | remove: '†' | remove: '^' -%}
+        {%- assign author_first_name = author.last | remove: '*' -%}
         {% if site.scholar.last_name contains author_last_name %}
           {% if site.scholar.first_name contains author_first_name %}
             {% assign author_is_self = true %}
@@ -82,14 +82,14 @@
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
         {%- if author_is_self -%}
-          <u>{{- author.last -}}{{" "}}{{ author.first -}}</u>
+          <u>{{- author.first -}}{{" "}}{{ author.last -}}</u>
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{coauthor_url}}">
-              {{- author.last -}}{{" "}}{{ author.first -}}
+              {{- author.first -}}{{" "}}{{ author.last -}}
             </a>
           {%- else -%}
-            {{- author.last -}}{{" "}}{{ author.first -}}
+            {{- author.first -}}{{" "}}{{ author.last -}}
           {% endif %}
         {%- endif -%}
       {% endfor %}
