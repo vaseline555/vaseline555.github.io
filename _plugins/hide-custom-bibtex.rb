@@ -6,8 +6,7 @@ module Jekyll
 	    keywords.each do |keyword|
 		    input = input.gsub(/^.*\b#{keyword}\b *= *\{.*$\n/, '')
 	    end
-      input = input.gsub(/\*/, '')
-      return input
+      return input.gsub(/\*/, '')
     end
   end
 end
