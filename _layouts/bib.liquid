@@ -326,17 +326,17 @@
     {% endif %}
 
     {% if entry.video and site.enable_video_embedding %}
-      <!-- Hidden video block -->
-      <div class="abstract hidden">
-        <div style="text-align: center;">
-          {% if entry.video contains "youtube" %}
-            {% assign video_id = entry.video | split: "v=" | last | split: "&" | first %}
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          {% else %}
-            {% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}
-          {% endif %}
-        </div>
+    <!-- Responsive video block -->
+    <div class="abstract hidden">
+      <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+        {% if entry.video contains "youtube" %}
+          {% assign video_id = entry.video | split: "v=" | last | split: "&" | first %}
+          <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        {% else %}
+          {% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" %}
+        {% endif %}
       </div>
-    {% endif %}
+    </div>
+  {% endif %}
   </div>
 </div>
