@@ -326,11 +326,15 @@
     {% endif %}
 
     {% if entry.video and site.enable_video_embedding %}
-      {% assign video_id = entry.video | split: "v=" | last | split: "&" | first %}
       <!-- Hidden video block -->
       <div class="abstract hidden">
         <div style="text-align: center;">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          {% if entry.video contains "youtube" %}
+            {% assign video_id = entry.video | split: "v=" | last | split: "&" | first %}
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          {% else %}
+            {% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}
+          {% endif %}
         </div>
       </div>
     {% endif %}
