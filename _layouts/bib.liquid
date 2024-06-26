@@ -326,9 +326,12 @@
     {% endif %}
 
     {% if entry.video and site.enable_video_embedding %}
+      {% assign video_id = entry.video | split: "v=" | last | split: "&" | first %}
       <!-- Hidden video block -->
       <div class="abstract hidden">
-        <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}</div>
+        <div style="text-align: center;">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
       </div>
     {% endif %}
   </div>
