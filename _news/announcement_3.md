@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have successfully defended my doctoral dissertation, <em>Algorithms for Collaborative Machine Learning under Statistical Heterogeneity</em>! :partying_face:
+I have successfully defended my doctoral dissertation, <em>[Algorithms for Collaborative Machine Learning under Statistical Heterogeneity](http://arxiv.org/abs/2408.00050)</em>! :partying_face:
