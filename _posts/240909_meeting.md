@@ -3,33 +3,63 @@ layout: post
 title: How to make lab meetings productive for everyone
 date: 2024-09-09 19:10:10
 description: my principles on lab meeting in graduate school
-tags: research thought
+tags: thought misc
 categories: post
 ---
 
-Every doctoral student may have memories of lab meetings.
-Here are tips for making successful lab meetings 
+Every doctoral student may have memories of lab meetings.  
+Here are few tips for making successful lab meetings from my experience.
 
-## Presenter - Prepare your material according to ‘[scientific method](https://en.wikipedia.org/wiki/Scientific_method#Elements_of_inquiry)’ as much as possible
-### I. Introduction
+## Presenter
+Prepare your material according to ‘[scientific method](https://en.wikipedia.org/wiki/Scientific_method#Elements_of_inquiry)’ as much as possible!
+
+### Basic Settings
+Please don’t just enumerate what you have done, and stick to the time limit as conference presentation (25 min.)
+- Time is gold.
+- Our concentration is limited; that’s why Pomodoro timer is usually set to 25 minutes.
+- Please prepare your presentation seamlessly and carefully to make our lab meeting meaningful.
+
+### Contents
+#### I. Introduction
 - Introduce clear definition of the target problem.
 - Give your lab mates a quick refresher or the importance of your work.
 
-### II. Observation & Background
+#### II. Observation & Background
+- Introduce from where, and why you found it is really a 'problem'?
+  - Provide summaries of related works you read & keywords used for finding/defining such works.
+- Conducting a research is like debugging a program with other researchers around the world.
+  - Without knowing what the previous bug is, (and whether it has already been fixed or not), any research is pointless…
+  - Please DON'T reinvent the wheel!!!
 
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
+#### III. Hypothesis
+- Introduce the very point(s) that you'd like to make a progress on top of existing works.
+- Please escribe in a compact sentence containing core keywords.
 <hr>
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+> <b>Template</b>: [<font color='orange'>*independent variable(s) / your idea*</font>] will [<font color='green'>*expected effect*</font>] on [<font color='skyblue'>*dependent variable / target field of interest*</font>] in [<font color='violet'>*specific condition / essential assumption*</font>]
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+> <b>Example</b>: [<font color='orange'>*A server-side online convex optimization on mixing coefficients*</font>] will [<font color='green'>*induce better performance uniformity*</font>] on [<font color='skyblue'>*both cross-silo & cross-device federated learning*</font>] in [<font color='violet'>*a single model-based, honest server and reliable clients in federated setting*</font>] (See [AAggFF (ICML`24)](https://arxiv.org/abs/2405.20821) for more details)
+<hr>
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+#### IV. Objective
+- Summarize in <u>a compact sentence</u> what you have been trying before a lab meeting.
+- <b>Example 1</b>) To investigate FTRL framework can be adopted to federated setting with client sampling.
+- <b>Example 2</b>) To prove convergence behavior of my proposed method.
+
+#### V. Experimental Results
+- Please at first summarize your results in a sentence.
+- Then, please answer following questions:
+  - How and why did you design experiments to test your hypothesis?
+  - What do the results imply about your hypothesis?
+
+#### VI. Discussion
+- Wrap-up your thoughts and provide future plans.
+- Request critical feedback from your lab mates.
+
+
+
+## Audience
+Please think as if you are a (good) reviewer.
+- There is no better guideline than [ICLR reviewer guideline](https://iclr.cc/Conferences/2024/ReviewerGuide#Reviewing%20instructions)
+- Read the guideline thoroughly and try to help the presenter's work _to be acceptable_ to external researchers.
+- Avoid attacking/criticizing the presenter, he/she is your lab mate!
