@@ -1,10 +1,28 @@
 ---
-layout: post
+layout: 
 title: How to make lab meetings productive for everyone
-date: 2024-09-09 19:10:10
+date: 2024-09-09
 description: my principles on lab meeting in graduate school
 tags: thought misc
+giscus_comments: true
 categories: post
+
+authors:
+  - name: Seok-Ju (Adam) Hahn
+    affiliations:
+      name: Seoul National University, South Korea
+
+toc:
+  - name: Presenter
+    - name: Basic Settings
+    - name: Contents
+      - name: I. Introduction
+      - name: II. Observation & Background
+      - name: III. Hypothesis
+      - name: IV. Objective
+      - name: V. Experimental Results
+      - name: VI. Discussion
+  - name: Audience
 ---
 
 Every doctoral student may have memories of lab meetings.  
@@ -35,10 +53,11 @@ Please don’t just enumerate what you have done, and stick to the time limit as
 - Introduce the very point(s) that you'd like to make a progress on top of existing works.
 - Please escribe in a compact sentence containing core keywords.
 <hr>
-
 > <b>Template</b>: [<font color='orange'>*independent variable(s) / your idea*</font>] will [<font color='green'>*expected effect*</font>] on [<font color='skyblue'>*dependent variable / target field of interest*</font>] in [<font color='violet'>*specific condition / essential assumption*</font>]
 
+{% details Click here to show an example %}
 > <b>Example</b>: [<font color='orange'>*A server-side online convex optimization on mixing coefficients*</font>] will [<font color='green'>*induce better performance uniformity*</font>] on [<font color='skyblue'>*both cross-silo & cross-device federated learning*</font>] in [<font color='violet'>*a single model-based, honest server and reliable clients in federated setting*</font>] (See [AAggFF (ICML`24)](https://arxiv.org/abs/2405.20821) for more details)
+{% enddetails %}
 <hr>
 
 #### IV. Objective
@@ -55,8 +74,6 @@ Please don’t just enumerate what you have done, and stick to the time limit as
 #### VI. Discussion
 - Wrap-up your thoughts and provide future plans.
 - Request critical feedback from your lab mates.
-
-
 
 ## Audience
 Please think as if you are a (good) reviewer.
