@@ -1,22 +1,21 @@
 ---
 layout: post
-title: a post with formatting and links
-date: 2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+title: How to make lab meetings productive for everyone
+date: 2024-09-09 19:10:10
+description: my principles on lab meeting in graduate school
+tags: research thought
+categories: post
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Every doctoral student may have memories of lab meetings.
+Here are tips for making successful lab meetings 
 
-#### Hipster list
+## Presenter - Prepare your material according to ‘[scientific method](https://en.wikipedia.org/wiki/Scientific_method#Elements_of_inquiry)’ as much as possible
+### I. Introduction
+- Introduce clear definition of the target problem.
+- Give your lab mates a quick refresher or the importance of your work.
 
-- brunch
-- fixie
-- raybans
-- messenger bag
-
-#### Check List
+### II. Observation & Background
 
 - [x] Brush Teeth
 - [ ] Put on socks
