@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Seok-Ju's Page
+title: Adam's Page
 subtitle: 
 first_name: Seok-Ju
-middle_name:
+middle_name: (Adam)
 last_name: Hahn
 email: sjhahn11512@gmail.com
-description: Seok-Ju's Page 
+description:  
 footer_text: 
-keywords: federated learning, machine learning for science # add your own keywords or leave empty
+keywords: federated learning, machine learning # add your own keywords or leave empty
 lang: en, kr # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧐 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🍭 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://vaseline555.github.io
 baseurl:
