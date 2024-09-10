@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Adam's Page
-subtitle: 
+subtitle: Adam
 first_name: Seok-Ju
 middle_name: (Adam)
 last_name: Hahn
@@ -129,7 +129,7 @@ lsi: true # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
   enabled: true
