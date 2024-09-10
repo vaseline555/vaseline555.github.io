@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vaseline555.github.iovaseline555.github.io/sitemap.xml
+Sitemap: https://vaseline555.github.io/sitemap.xml
