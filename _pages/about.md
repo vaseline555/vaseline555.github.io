@@ -18,8 +18,8 @@ Seok-Ju has recevied his Ph.D. degree (Aug. 2024) in Industrial Engineering at U
 He received his B.S. (Feb. 2019) and M.S. (Feb. 2021) degrees in Industrial Engineering from UNIST.
 
 He is now a postdoctoral researcher at the Institute of Engineering Research, Seoul National University ([IoER, SNU](https://ioer.snu.ac.kr); Republic of Korea).
-Concurrently, he has been conscripted into the Republic of Korea Army as a [Technical Research Personnel](https://elaw.klri.re.kr/kor_service/jomunPrint.do?hseq=10572&cseq=235795) (started from Sep. 2022). (Date of Discharge: Aug. 2025)
+Concurrently, he has been conscripted into the Republic of Korea Army as a [Technical Research Personnel](https://elaw.klri.re.kr/kor_service/lawViewTitle.do?hseq=2204) (started from Sep. 2022). (Date of Discharge: Aug. 2025)
 
 His research interests include `Federated Machine Learning` and `Distributed/Online/Private Optimization`.
-Please see his [research statement](https://drive.google.com/file/d/117Ax4WJXPlt2JMHUcLV3j3UsItILg9e/view?usp=drivesdk) for more details. 
+Please see his [research statement](https://drive.google.com/file/d/117Ax4WJXPlt2JMHUcLV3j3UsItILg9eA/view?usp=drivesdk) for more details. 
 📢 I am open to collaboration, so please ping me with a brief introduction of yours to ``(sjhahn11512 dot gmail dot com)`` if you have common interest!
