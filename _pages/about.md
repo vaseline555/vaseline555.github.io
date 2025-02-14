@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: #
-
+https://www.seas.upenn.edu/~hassani/
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,6 +22,6 @@ He is now a postdoctoral researcher at the Institute of Engineering Research, Se
 Concurrently, he has been conscripted into the Republic of Korea Army as a [Technical Research Personnel](https://elaw.klri.re.kr/kor_service/jomunPrint.do?hseq=10572&cseq=235795) (started from Sep. 2022). (Date of Discharge: Aug. 2025)
 
 His research interests include `Federated Machine Learning` and `Distributed/Online/Private Optimization`.
-Please see his [research statement](https://drive.google.com/file/d/1WreSjvRIFLpz79-Xt0bu9Ab8vty1j7h7/view?usp=sharing) for more details. 
+Please see his [research statement](https://drive.google.com/file/d/1WreSjvRIFLpz79-Xt0bu9Ab8vty1j7h7/view?usp=drivesdk) for more details. 
 
 📢 I am open to collaboration and now finding a **postdoctoral position starting in the fall of 2025**!
