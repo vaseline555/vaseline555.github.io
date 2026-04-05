@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Adam's Page
+title: Seok-Ju Hahn
 subtitle: Adam
 first_name: Seok-Ju
 middle_name: (Adam)
 last_name: Hahn
 email: sjhahn11512@gmail.com
-description:  
+description: Research portfolio of Seok-Ju Hahn, spanning federated learning, distributed optimization, privacy, and machine learning for science.
 footer_text: 
 keywords: federated learning, machine learning # add your own keywords or leave empty
 lang: en, kr # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -175,9 +175,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-#  projects:
-#    output: true
-#    permalink: /projects/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 announcements:
   enabled: true
@@ -185,8 +185,8 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: true
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------

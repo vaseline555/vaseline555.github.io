@@ -4,7 +4,7 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h2 class="post-title">
-      <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }} {{"(한석주; Adam)"}}
+      <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}
     </h2>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
@@ -35,20 +35,12 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- News -->
-    {% if page.news and site.announcements.enabled %}
+    <!-- Featured projects -->
+    {% if page.featured_projects %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Selected Projects</a>
       </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
-
-    <!-- Latest posts -->
-    {% if site.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
+      {% include featured_projects.liquid limit=3 %}
     {% endif %}
 
     <!-- Selected papers -->
@@ -57,6 +49,22 @@ layout: default
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
+    {% endif %}
+
+    <!-- Latest posts -->
+    {% if site.latest_posts.enabled %}
+      <h2>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Recent Writing</a>
+      </h2>
+      {% include latest_posts.liquid %}
+    {% endif %}
+
+    <!-- News -->
+    {% if page.news and site.announcements.enabled %}
+      <h2>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">Recent Updates</a>
+      </h2>
+      {% include news.liquid limit=true %}
     {% endif %}
 
     <!-- Social -->
