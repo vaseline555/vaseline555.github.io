@@ -1017,6 +1017,16 @@ footer.footer .nav-footer {
     padding-top: 2rem;
   }
 
+  .home-menu.social-links {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: clamp(0.55rem, 3.5vw, 0.9rem);
+  }
+
+  .home-menu.social-links a {
+    flex: 0 0 2.35rem;
+  }
+
   .floating-sticker {
     display: none;
   }
