@@ -1,1 +1,0 @@
-Seok-Ju's Page

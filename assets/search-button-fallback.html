@@ -1,0 +1,28 @@
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const wireSearchButton = () => {
+      const button = document.querySelector("#quarto-search .aa-DetachedSearchButton");
+      if (!button || button.dataset.searchFallback === "true") {
+        return;
+      }
+
+      button.dataset.searchFallback = "true";
+      button.addEventListener("click", (event) => {
+        if (typeof window.quartoOpenSearch === "function") {
+          event.preventDefault();
+          window.quartoOpenSearch();
+        }
+      });
+    };
+
+    wireSearchButton();
+
+    const search = document.querySelector("#quarto-search");
+    if (search) {
+      new MutationObserver(wireSearchButton).observe(search, {
+        childList: true,
+        subtree: true,
+      });
+    }
+  });
+</script>
