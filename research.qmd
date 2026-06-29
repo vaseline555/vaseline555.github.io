@@ -1,0 +1,31 @@
+---
+title: "Research"
+subtitle: "LAST UPDATED: May 31, 2026"
+toc: false
+---
+
+<div
+  class="pdf-preview-host"
+  data-pdf-src="https://drive.google.com/file/d/1xfLNqHvbw_fiDvqC5e5V6ux7F_8Ltmnt/preview"
+  data-pdf-title="Research Statement PDF"
+></div>
+
+<script>
+(() => {
+  const host = document.querySelector(".pdf-preview-host[data-pdf-src]");
+  const load = () => {
+    const frame = document.createElement("iframe");
+    frame.className = "pdf-frame";
+    frame.src = host.dataset.pdfSrc;
+    frame.title = host.dataset.pdfTitle;
+    frame.allow = "autoplay";
+    host.replaceChildren(frame);
+  };
+
+  if (document.readyState === "complete") {
+    window.setTimeout(load, 250);
+  } else {
+    window.addEventListener("load", () => window.setTimeout(load, 250), { once: true });
+  }
+})();
+</script>

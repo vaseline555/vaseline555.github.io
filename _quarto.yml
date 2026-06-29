@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/**
+    - googleef371876a019c0d8.html
+
+website:
+  title: "Seok-Ju Hahn"
+  site-url: "https://vaseline555.github.io"
+  favicon: assets/favicon.png
+  google-analytics: "G-HCFVVWYVZE"
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    pinned: true
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+  page-footer:
+    left: "Made with [Quarto](https://quarto.org)"
+    right: "© 2026 Seok-Ju Hahn"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: cosmo
+    css: styles.css
+    toc: true
+    respect-user-color-scheme: true
+    smooth-scroll: true
+    link-external-icon: true
+    include-after-body:
+      - assets/floating-star.html
+      - assets/search-button-fallback.html
+    date-format: "MMM D, YYYY"
+
+execute:
+  freeze: auto

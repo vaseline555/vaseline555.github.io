@@ -1,0 +1,195 @@
+---
+title: "Publications"
+toc: false
+---
+
+## Preprints/Working Papers
+
+```{=html}
+<div class="publication-list">
+
+<article class="publication-item">
+  <div class="publication-heading">
+    <span class="publication-badge">WIP 2026</span>
+    <span class="publication-title">Contextual Bandit-based Adaptive and Efficient Inference for Vision Transformers under Distribution Shift</span>
+  </div>
+  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/byeongwoo-an">Byeongwoo An</a>, <a href="https://sites.google.com/view/eungjoolee/">Eungjoo Lee</a></p>
+  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
+  <p><strong>Role:</strong></p>
+  <p><strong>Description:</strong></p>
+  <p><strong>BibTeX:</strong></p>
+  <pre><code>@article{TBD}</code></pre>
+  </div></details>
+</article>
+
+<article class="publication-item">
+  <div class="publication-heading">
+    <span class="publication-badge">WIP 2026</span>
+    <span class="publication-title">Decentralized Freshness Management of Foundation Models in Networked ML System</span>
+  </div>
+  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://kibaekkim.github.io">Kibaek Kim</a></p>
+  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
+  <p><strong>Role:</strong></p>
+  <p><strong>Description:</strong></p>
+  <p><strong>BibTeX:</strong></p>
+  <pre><code>@article{TBD}</code></pre>
+  </div></details>
+</article>
+
+<article class="publication-item">
+  <div class="publication-heading">
+    <span class="publication-badge">Submitted 2026</span>
+    <span class="publication-title">Tackling Utility-driven Asynchrony through Decoupled Federated Learning</span>
+  </div>
+  <p class="publication-authors"><a href="https://krm9c.github.io">Krishnan Raghavan</a>, <a href="https://emon-dey.github.io/webpage/">Emon Dey</a>, <span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/yijiang-li-14489583/">Yijiang Li</a>, <a href="https://www.mcs.anl.gov/~tmunson/">Todd Munson</a>, <a href="https://kibaekkim.github.io">Kibaek Kim</a></p>
+  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
+  <p><strong>Role:</strong></p>
+  <p><strong>Description:</strong></p>
+  <p><strong>BibTeX:</strong></p>
+  <pre><code>@article{TBD}</code></pre>
+  </div></details>
+</article>
+
+<article class="publication-item">
+  <div class="publication-heading">
+    <span class="publication-badge">Submitted 2026</span>
+    <span class="publication-title">Generalization-Aware Local Epoch Assignment for Federated Learing</span>
+  </div>
+  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://kibaekkim.github.io">Kibaek Kim</a></p>
+  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
+  <p><strong>Role:</strong></p>
+  <p><strong>Description:</strong></p>
+  <p><strong>BibTeX:</strong></p>
+  <pre><code>@article{TBD}</code></pre>
+  </div></details>
+</article>
+
+<article class="publication-item">
+  <div class="publication-heading">
+    <span class="publication-badge">Submitted 2025</span>
+    <span class="publication-title">Differentially Private Collaborative Augmentation for Federated Sparse-view CT Reconstruction</span>
+  </div>
+  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/mh-lee08/">Myoung Hoon Lee</a>, <a href="https://www.linkedin.com/in/hwi-jung-kim-2817a8277">Hwijung Kim</a>, <a href="https://scholar.google.com/citations?user=PCMjeNUAAAAJ">Jun-Seok Yun</a>, <a href="https://scholar.google.com/citations?user=HbR6oz8AAAAJ">Jong Pil Yun</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a></p>
+  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
+  <p><strong>Role:</strong></p>
+  <p><strong>Description:</strong></p>
+  <p><strong>BibTeX:</strong></p>
+  <pre><code>@article{TBD}</code></pre>
+  </div></details>
+</article>
+
+</div>
+```
+
+## Peer-reviewed Publications
+
+```{=html}
+<div class="publication-list">
+
+<article class="publication-item">
+  <div class="publication-heading">
+    <span class="publication-badge">NeurIPS 2025</span>
+    <a class="publication-title" href="https://openreview.net/forum?id=1GCWcrZTX8">Diffusion Federated Datasets</a>
+  </div>
+  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a></p>
+  <p class="publication-meta">Main track</p>
+  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
+  <p><strong>Role:</strong></p>
+  <p><strong>Description:</strong></p>
+  <p><strong>BibTeX:</strong></p>
+  <pre><code>@article{placeholder, title = {Placeholder}}</code></pre>
+  </div></details>
+</article>
+
+<article class="publication-item">
+  <div class="publication-heading">
+    <span class="publication-badge">KDD 2024</span>
+    <a class="publication-title" href="https://arxiv.org/abs/2406.01833">CAFO: Feature-Centric Explanation on Time Series Classification</a>
+  </div>
+  <p class="publication-authors"><a href="https://sites.google.com/view/jaeho-kim">Jaeho Kim</a>, <span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://tsi-yoontae.github.io/#members">Yoontae Hwang</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a>, <a href="https://sites.google.com/view/seulkilee">Seulki Lee</a></p>
+  <p class="publication-meta">Oral &middot; Research track</p>
+  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
+  <p><strong>Role:</strong></p>
+  <p><strong>Description:</strong></p>
+  <p><strong>BibTeX:</strong></p>
+  <pre><code>@article{placeholder, title = {Placeholder}}</code></pre>
+  </div></details>
+</article>
+
+<article class="publication-item">
+  <div class="publication-heading">
+    <span class="publication-badge">ICML 2024</span>
+    <a class="publication-title" href="https://proceedings.mlr.press/v235/hahn24a.html">Pursuing Overall Welfare in Federated Learning through Sequential Decision Making</a>
+  </div>
+  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://sdm.unist.ac.kr/professor/">Gi-Soo Kim</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a></p>
+  <p class="publication-meta">Main track</p>
+  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
+  <p><strong>Role:</strong></p>
+  <p><strong>Description:</strong></p>
+  <p><strong>BibTeX:</strong></p>
+  <pre><code>@article{placeholder, title = {Placeholder}}</code></pre>
+  </div></details>
+</article>
+
+<article class="publication-item">
+  <div class="publication-heading">
+    <span class="publication-badge">eBioMedicine</span>
+    <a class="publication-title" href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00565-5/fulltext">Prediction of Type 2 Diabetes using Genome-wide Polygenic Risk Score and Metabolic Profiles: A Machine Learning Analysis of Population-based 10-year Prospective Cohort Study</a>
+  </div>
+  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>*, <a href="https://sites.google.com/view/suhyeon-kim/professor">Suhyeon Kim</a>*, <a href="https://www.linkedin.com/in/%EC%98%81%EC%8B%9D-%EC%B5%9C-278058239/">Young Sik Choi</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a>, <a href="https://scholar.google.com/citations?user=hk9Rh78AAAAJ">Jihun Kang</a></p>
+  <p class="publication-meta">* equal contribution &middot; IF=11.1 &middot; Enlisted as "The One Who Honours Korea (Hanbitsa)" in 2022</p>
+  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
+  <p><strong>Role:</strong></p>
+  <p><strong>Description:</strong></p>
+  <p><strong>BibTeX:</strong></p>
+  <pre><code>@article{placeholder, title = {Placeholder}}</code></pre>
+  </div></details>
+</article>
+
+<article class="publication-item">
+  <div class="publication-heading">
+    <span class="publication-badge">KDD 2022</span>
+    <a class="publication-title" href="https://dl.acm.org/doi/abs/10.1145/3534678.3539254">Connecting Low-Loss Subspace for Personalized Federated Learning</a>
+  </div>
+  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/minwoojeong">Minwoo Jeong</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a></p>
+  <p class="publication-meta">Oral &middot; Research track</p>
+  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
+  <p><strong>Role:</strong></p>
+  <p><strong>Description:</strong></p>
+  <p><strong>BibTeX:</strong></p>
+  <pre><code>@article{placeholder, title = {Placeholder}}</code></pre>
+  </div></details>
+</article>
+
+</div>
+```
+
+<script>
+(() => {
+  const openPublicationLinksInNewTabs = () => {
+    const content = document.querySelector("#quarto-document-content");
+    if (!content) {
+      return;
+    }
+
+    content.querySelectorAll('a[href^="http"]').forEach((link) => {
+      link.setAttribute("target", "_blank");
+
+      const rel = new Set(
+        (link.getAttribute("rel") || "").split(/\s+/).filter(Boolean)
+      );
+      rel.add("noopener");
+      rel.add("noreferrer");
+      link.setAttribute("rel", Array.from(rel).join(" "));
+    });
+  };
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", openPublicationLinksInNewTabs, {
+      once: true
+    });
+  } else {
+    openPublicationLinksInNewTabs();
+  }
+})();
+</script>

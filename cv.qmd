@@ -1,0 +1,30 @@
+---
+title: "Curriculum Vitae"
+subtitle: "LAST UPDATED: May 31, 2026"
+---
+
+<div
+  class="pdf-preview-host"
+  data-pdf-src="https://drive.google.com/file/d/1zqYcRfFb6DHjcHpE5Uc3uHBtdYTvlIAq/preview"
+  data-pdf-title="Curriculum Vitae PDF"
+></div>
+
+<script>
+(() => {
+  const host = document.querySelector(".pdf-preview-host[data-pdf-src]");
+  const load = () => {
+    const frame = document.createElement("iframe");
+    frame.className = "pdf-frame";
+    frame.src = host.dataset.pdfSrc;
+    frame.title = host.dataset.pdfTitle;
+    frame.allow = "autoplay";
+    host.replaceChildren(frame);
+  };
+
+  if (document.readyState === "complete") {
+    window.setTimeout(load, 250);
+  } else {
+    window.addEventListener("load", () => window.setTimeout(load, 250), { once: true });
+  }
+})();
+</script>
