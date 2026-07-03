@@ -10,24 +10,10 @@ toc: false
 
 <article class="publication-item">
   <div class="publication-heading">
-    <span class="publication-badge">WIP 2026</span>
+    <span class="publication-badge">Submitted 2026</span>
     <span class="publication-title">Contextual Bandit-based Adaptive and Efficient Inference for Vision Transformers under Distribution Shift</span>
   </div>
   <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/byeongwoo-an">Byeongwoo An</a>, <a href="https://sites.google.com/view/eungjoolee/">Eungjoo Lee</a></p>
-  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
-  <p><strong>Role:</strong></p>
-  <p><strong>Description:</strong></p>
-  <p><strong>BibTeX:</strong></p>
-  <pre><code>@article{TBD}</code></pre>
-  </div></details>
-</article>
-
-<article class="publication-item">
-  <div class="publication-heading">
-    <span class="publication-badge">WIP 2026</span>
-    <span class="publication-title">Decentralized Freshness Management of Foundation Models in Networked ML System</span>
-  </div>
-  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://kibaekkim.github.io">Kibaek Kim</a></p>
   <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
   <p><strong>Role:</strong></p>
   <p><strong>Description:</strong></p>
