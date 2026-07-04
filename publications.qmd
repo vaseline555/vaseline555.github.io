@@ -53,6 +53,21 @@ toc: false
 <article class="publication-item">
   <div class="publication-heading">
     <span class="publication-badge">Submitted 2025</span>
+    <span class="publication-title">Conditional Implicit Neural Representation for Cloud-Free High-Resolution Vegetation Index Estimation from Coarse-Resolution Multispectral and Fine-Resolution SAR Data</span>
+  </div>
+  <p class="publication-authors">Bokyung Son*, <span class="term-highlight">Seok-Ju Hahn</span>*, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a>, Jungho Im</p>
+  <p class="publication-meta">* equal contribution</p>
+  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
+  <p><strong>Role:</strong></p>
+  <p><strong>Description:</strong></p>
+  <p><strong>BibTeX:</strong></p>
+  <pre><code>@article{TBD}</code></pre>
+  </div></details>
+</article>
+
+<article class="publication-item">
+  <div class="publication-heading">
+    <span class="publication-badge">Submitted 2025</span>
     <span class="publication-title">Differentially Private Collaborative Augmentation for Federated Sparse-view CT Reconstruction</span>
   </div>
   <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/mh-lee08/">Myoung Hoon Lee</a>, <a href="https://www.linkedin.com/in/hwi-jung-kim-2817a8277">Hwijung Kim</a>, <a href="https://scholar.google.com/citations?user=PCMjeNUAAAAJ">Jun-Seok Yun</a>, <a href="https://scholar.google.com/citations?user=HbR6oz8AAAAJ">Jong Pil Yun</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a></p>
