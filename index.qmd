@@ -20,16 +20,16 @@ body-classes: home-page
 
   <p>My work connects personalized federated learning, online decision-making, privacy-preserving data collaboration, and resource-aware distributed optimization, with applications in edge/IoT systems, healthcare, and industrial machine learning.</p>
 
+  <p>In my free time, I sing 🎤 R&B and do kettlebell 🐮🔔 swings. I am open to new collaborations and opportunities. Let's connect!</p>
+
   <h2>Research Highlights</h2>
 
   <ul class="research-highlights">
     <li><strong>Personalized federated learning.</strong> Developed <span class="term-highlight">SuPerFed</span>, which connects global and local models through low-loss subspaces for personalization under statistical heterogeneity (KDD 2022).</li>
-    <li><strong>Adaptive decision-making for collaboration.</strong> Reframed long-term fairness in federated learning as online optimization over social welfare, yielding adaptive algorithms with regret guarantees (ICML 2024).</li>
+    <li><strong>Adaptive decision-making for collaboration.</strong> Developed <span class="term-highlight"><strong>AAggFF</strong></span>, which unified and reframed long-term performance fairness in federated learning as online optimization over aggregation weights (ICML 2024).</li>
     <li><strong>Privacy-preserving data collaboration.</strong> Developed <span class="term-highlight">Diffusion Federated Datasets</span>, a cooperative sampling framework that composes pretrained local diffusion models without exchanging model parameters and supports optional differential privacy (NeurIPS 2025).</li>
     <li><strong>Networked ML systems.</strong> Current work studies generalization-aware local computation and adaptive inference under distribution shift.</li>
   </ul>
-
-  <p>In my free time, I sing 🎤 R&B and do kettlebell 🐮🔔 swings. I am open to new collaborations and opportunities. Let's connect!</p>
 
   <p class="contact-email">sjhahn11512 [at] gmail [dot] com<br>hahns [at] anl [dot] gov</p>
 
