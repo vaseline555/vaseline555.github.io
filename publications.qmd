@@ -3,17 +3,18 @@ title: "Publications"
 toc: false
 ---
 
-## Preprints/Working Papers
+## Manuscripts under Review
 
 ```{=html}
 <div class="publication-list">
 
 <article class="publication-item">
   <div class="publication-heading">
-    <span class="publication-badge">Submitted 2026</span>
-    <span class="publication-title">Contextual Bandit-based Adaptive and Efficient Inference for Vision Transformers under Distribution Shift</span>
+    <span class="publication-badge">Under Review</span>
+    <span class="publication-title">Input-Adaptive Vision Transformer Inference with Contextual Apple Tasting</span>
   </div>
   <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/byeongwoo-an">Byeongwoo An</a>, <a href="https://sites.google.com/view/eungjoolee/">Eungjoo Lee</a></p>
+  <p class="publication-meta">Under review at Asilomar 2026</p>
   <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
   <p><strong>Role:</strong></p>
   <p><strong>Description:</strong></p>
@@ -24,10 +25,11 @@ toc: false
 
 <article class="publication-item">
   <div class="publication-heading">
-    <span class="publication-badge">Submitted 2026</span>
-    <span class="publication-title">Tackling Utility-driven Asynchrony through Decoupled Federated Learning</span>
+    <span class="publication-badge">Under Review</span>
+    <span class="publication-title">Tackling Utility-Driven Asynchrony through Decoupled Federated Learning</span>
   </div>
   <p class="publication-authors"><a href="https://krm9c.github.io">Krishnan Raghavan</a>, <a href="https://emon-dey.github.io/webpage/">Emon Dey</a>, <span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/yijiang-li-14489583/">Yijiang Li</a>, <a href="https://www.mcs.anl.gov/~tmunson/">Todd Munson</a>, <a href="https://kibaekkim.github.io">Kibaek Kim</a></p>
+  <p class="publication-meta">Under review at NeurIPS 2026</p>
   <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
   <p><strong>Role:</strong></p>
   <p><strong>Description:</strong></p>
@@ -38,10 +40,11 @@ toc: false
 
 <article class="publication-item">
   <div class="publication-heading">
-    <span class="publication-badge">Submitted 2026</span>
-    <span class="publication-title">Generalization-Aware Local Epoch Assignment for Federated Learing</span>
+    <span class="publication-badge">Under Review</span>
+    <span class="publication-title">Contextual Bandits for Generalization-Aware Local-Effort Assignment in Federated Learning</span>
   </div>
   <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://kibaekkim.github.io">Kibaek Kim</a></p>
+  <p class="publication-meta">Under review at NeurIPS 2026</p>
   <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
   <p><strong>Role:</strong></p>
   <p><strong>Description:</strong></p>
@@ -52,25 +55,26 @@ toc: false
 
 <article class="publication-item">
   <div class="publication-heading">
-    <span class="publication-badge">Submitted 2025</span>
-    <span class="publication-title">Conditional Implicit Neural Representation for Cloud-Free High-Resolution Vegetation Index Estimation from Coarse-Resolution Multispectral and Fine-Resolution SAR Data</span>
-  </div>
-  <p class="publication-authors">Bokyung Son*, <span class="term-highlight">Seok-Ju Hahn</span>*, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a>, Jungho Im</p>
-  <p class="publication-meta">* equal contribution</p>
-  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
-  <p><strong>Role:</strong></p>
-  <p><strong>Description:</strong></p>
-  <p><strong>BibTeX:</strong></p>
-  <pre><code>@article{TBD}</code></pre>
-  </div></details>
-</article>
-
-<article class="publication-item">
-  <div class="publication-heading">
-    <span class="publication-badge">Submitted 2025</span>
-    <span class="publication-title">Differentially Private Collaborative Augmentation for Federated Sparse-view CT Reconstruction</span>
+    <span class="publication-badge">Under Review</span>
+    <span class="publication-title">Differentially Private Collaborative Augmentation for Federated Sparse-View CT Reconstruction</span>
   </div>
   <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/mh-lee08/">Myoung Hoon Lee</a>, <a href="https://www.linkedin.com/in/hwi-jung-kim-2817a8277">Hwijung Kim</a>, <a href="https://scholar.google.com/citations?user=PCMjeNUAAAAJ">Jun-Seok Yun</a>, <a href="https://scholar.google.com/citations?user=HbR6oz8AAAAJ">Jong Pil Yun</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a></p>
+  <p class="publication-meta">Under journal review</p>
+  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
+  <p><strong>Role:</strong></p>
+  <p><strong>Description:</strong></p>
+  <p><strong>BibTeX:</strong></p>
+  <pre><code>@article{TBD}</code></pre>
+  </div></details>
+</article>
+
+<article class="publication-item">
+  <div class="publication-heading">
+    <span class="publication-badge">Under Review</span>
+    <span class="publication-title">Cloud-Free Vegetation Index Estimation with Implicit Neural Representation for Multi-Resolution Heterogeneous Source Fusion</span>
+  </div>
+  <p class="publication-authors">Bokyung Son*, <span class="term-highlight">Seok-Ju Hahn</span>*, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a>, Jungho Im</p>
+  <p class="publication-meta">Under journal review &middot; * equal contribution</p>
   <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
   <p><strong>Role:</strong></p>
   <p><strong>Description:</strong></p>
@@ -82,7 +86,7 @@ toc: false
 </div>
 ```
 
-## Peer-reviewed Publications
+## Peer-Reviewed Journal and Conference
 
 ```{=html}
 <div class="publication-list">
@@ -134,11 +138,11 @@ toc: false
 
 <article class="publication-item">
   <div class="publication-heading">
-    <span class="publication-badge">eBioMedicine</span>
-    <a class="publication-title" href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00565-5/fulltext">Prediction of Type 2 Diabetes using Genome-wide Polygenic Risk Score and Metabolic Profiles: A Machine Learning Analysis of Population-based 10-year Prospective Cohort Study</a>
+    <span class="publication-badge">KDD 2022</span>
+    <a class="publication-title" href="https://dl.acm.org/doi/abs/10.1145/3534678.3539254">Connecting Low-Loss Subspace for Personalized Federated Learning</a>
   </div>
-  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>*, <a href="https://sites.google.com/view/suhyeon-kim/professor">Suhyeon Kim</a>*, <a href="https://www.linkedin.com/in/%EC%98%81%EC%8B%9D-%EC%B5%9C-278058239/">Young Sik Choi</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a>, <a href="https://scholar.google.com/citations?user=hk9Rh78AAAAJ">Jihun Kang</a></p>
-  <p class="publication-meta">* equal contribution &middot; IF=11.1 &middot; Enlisted as "The One Who Honours Korea (Hanbitsa)" in 2022</p>
+  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/minwoojeong">Minwoo Jeong</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a></p>
+  <p class="publication-meta">Oral &middot; Research track</p>
   <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
   <p><strong>Role:</strong></p>
   <p><strong>Description:</strong></p>
@@ -149,11 +153,11 @@ toc: false
 
 <article class="publication-item">
   <div class="publication-heading">
-    <span class="publication-badge">KDD 2022</span>
-    <a class="publication-title" href="https://dl.acm.org/doi/abs/10.1145/3534678.3539254">Connecting Low-Loss Subspace for Personalized Federated Learning</a>
+    <span class="publication-badge">eBioMedicine 2022</span>
+    <a class="publication-title" href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00565-5/fulltext">Prediction of Type 2 Diabetes using Genome-wide Polygenic Risk Score and Metabolic Profiles: A Machine Learning Analysis of Population-based 10-year Prospective Cohort Study</a>
   </div>
-  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/minwoojeong">Minwoo Jeong</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a></p>
-  <p class="publication-meta">Oral &middot; Research track</p>
+  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>*, <a href="https://sites.google.com/view/suhyeon-kim/professor">Suhyeon Kim</a>*, <a href="https://www.linkedin.com/in/%EC%98%81%EC%8B%9D-%EC%B5%9C-278058239/">Young Sik Choi</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a>, <a href="https://scholar.google.com/citations?user=hk9Rh78AAAAJ">Jihun Kang</a></p>
+  <p class="publication-meta">* equal contribution &middot; IF=11.1 &middot; Enlisted as "The One Who Honours Korea (Hanbitsa)" in 2022</p>
   <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
   <p><strong>Role:</strong></p>
   <p><strong>Description:</strong></p>
