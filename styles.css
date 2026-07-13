@@ -591,10 +591,11 @@ body:has(.quarto-color-scheme-toggle.alternate) .underbrace-svg {
 }
 
 .publication-list {
+  --publication-badge-width: 8.65rem;
   --publication-badge-text-size: 0.74rem;
   --publication-main-text-size: 0.88rem;
   --publication-author-text-size: 0.765rem;
-  --publication-title-offset: calc(7.35rem + 0.75rem);
+  --publication-title-offset: calc(var(--publication-badge-width) + 0.75rem);
   margin: 0.55rem 0 2.2rem;
 }
 
@@ -619,9 +620,9 @@ body:has(.quarto-color-scheme-toggle.alternate) .underbrace-svg {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  flex: 0 0 7.35rem;
+  flex: 0 0 var(--publication-badge-width);
   box-sizing: border-box;
-  width: 7.35rem;
+  width: var(--publication-badge-width);
   min-height: 1.36rem;
   padding: 0.1rem 0.46rem 0.12rem;
   border: 1px solid rgba(63, 88, 116, 0.18);
