@@ -5,6 +5,7 @@
   --ink: #242424;
   --muted-ink: #626262;
   --slate-blue: #3f5874;
+  --burgundy: #7a1f3d;
   --soft-sage: #e6ded2;
   --star-gold: #b88924;
   --line: #e6ded2;
@@ -29,6 +30,7 @@ body:has(.quarto-color-scheme-toggle.alternate) {
   --ink: #ece7df;
   --muted-ink: #b8b1a6;
   --slate-blue: #9ab2cf;
+  --burgundy: #e39aaf;
   --soft-sage: #3a342c;
   --star-gold: #d4a73c;
   --line: #3a342c;
@@ -507,6 +509,18 @@ body:has(.quarto-color-scheme-toggle.alternate) .underbrace-svg {
   color: var(--slate-blue);
   font-weight: 600;
   text-align: center;
+}
+
+.role-availability {
+  max-width: 42rem;
+  margin: 0.8rem auto 0;
+  color: var(--burgundy);
+  line-height: 1.5;
+  text-align: center;
+}
+
+.role-availability strong {
+  font-weight: 700;
 }
 
 .home-menu {
