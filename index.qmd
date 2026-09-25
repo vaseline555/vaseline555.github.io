@@ -30,7 +30,7 @@ body-classes: home-page
 
   <p class="contact-email">sjhahn11512 [at] gmail [dot] com<br>hahns [at] anl [dot] gov</p>
 
-  <p class="role-availability"><strong>I am currently open to roles as a Postdoctoral Researcher, (Research) Assistant Professor, and ML Research Scientist.</strong></p>
+  <p class="role-availability"><strong>I am currently open to roles as (Research) Assistant Professor, and AI/ML Research Scientist.</strong></p>
 
   <nav class="home-menu social-links" aria-label="Social links">
     <a class="no-external" href="https://scholar.google.com/citations?user=AKN5vg8AAAAJ" aria-label="Google Scholar" title="Google Scholar" target="_blank" rel="noopener noreferrer">
