@@ -359,6 +359,11 @@ body:not(.home-page) main.content > header#title-block-header.quarto-title-block
   font-size: 1.32rem;
 }
 
+.home-intro .joining-note {
+  font-size: 0.9em;
+  font-style: italic;
+}
+
 .pronunciation {
   margin-top: 0;
   margin-bottom: 2rem;

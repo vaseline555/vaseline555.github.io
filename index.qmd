@@ -14,23 +14,15 @@ body-classes: home-page
     <figcaption>my sign is scorpio</figcaption>
   </figure>
 
+  <p class="joining-note">I’ll be joining <strong>Sygaldry Technologies</strong> in San Francisco as an AI/ML associate research scientist from January 2027.</p>
+
   <p>Hi, I’m Seok-Ju! I am a postdoctoral appointee in the Mathematics and Computer Science Division at Argonne National Laboratory.</p>
 
   <p>I build adaptive decision layers that help learning systems determine how and where to spend computation and when to trust a combination of knowledge, with guarantees. Especially, this includes federated and decentralized settings where data distributions, computational resources, communication patterns, and participant objectives are heterogeneous.</p>
 
   <p>In my free time, I sing 🎤 R&B and do kettlebell 🐮🔔 swings. I am open to new collaborations and opportunities. Let's connect!</p>
 
-  <h2>Research Highlights</h2>
-
-  <ul class="research-highlights">
-    <li><strong>Personalized federated learning.</strong> Developed <span class="term-highlight">SuPerFed</span>, which connects global and local models through low-loss subspaces for personalization under statistical heterogeneity (KDD 2022).</li>
-    <li><strong>Adaptive decision-making for collaboration.</strong> Developed <span class="term-highlight"><strong>AAggFF</strong></span>, which unified and reframed long-term performance fairness in federated learning as online optimization over aggregation weights (ICML 2024).</li>
-    <li><strong>Privacy-preserving data collaboration.</strong> Developed <span class="term-highlight">Diffusion Federated Datasets</span>, a cooperative sampling framework that composes pretrained local diffusion models without exchanging model parameters and supports optional differential privacy (NeurIPS 2025).</li>
-  </ul>
-
   <p class="contact-email">sjhahn11512 [at] gmail [dot] com<br>hahns [at] anl [dot] gov</p>
-
-  <p class="role-availability"><strong>I am currently open to roles as (Research) Assistant Professor, and AI/ML Research Scientist.</strong></p>
 
   <nav class="home-menu social-links" aria-label="Social links">
     <a class="no-external" href="https://scholar.google.com/citations?user=AKN5vg8AAAAJ" aria-label="Google Scholar" title="Google Scholar" target="_blank" rel="noopener noreferrer">

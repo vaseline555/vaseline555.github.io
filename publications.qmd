@@ -11,76 +11,37 @@ toc: false
 <article class="publication-item">
   <div class="publication-heading">
     <span class="publication-badge">Under Review</span>
-    <span class="publication-title">Input-Adaptive Vision Transformer Inference with Contextual Apple Tasting</span>
-  </div>
-  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/byeongwoo-an">Byeongwoo An</a>, <a href="https://sites.google.com/view/eungjoolee/">Eungjoo Lee</a></p>
-  <p class="publication-meta">Under review at Asilomar 2026</p>
-  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
-  <p><strong>Role:</strong></p>
-  <p><strong>Description:</strong></p>
-  <p><strong>BibTeX:</strong></p>
-  <pre><code>@article{TBD}</code></pre>
-  </div></details>
-</article>
-
-<article class="publication-item">
-  <div class="publication-heading">
-    <span class="publication-badge">Under Review</span>
-    <span class="publication-title">Tackling Utility-Driven Asynchrony through Decoupled Federated Learning</span>
+    <span class="publication-title">Utility-driven asynchronous federated learning ...</span>
   </div>
   <p class="publication-authors"><a href="https://krm9c.github.io">Krishnan Raghavan</a>, <a href="https://emon-dey.github.io/webpage/">Emon Dey</a>, <span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/yijiang-li-14489583/">Yijiang Li</a>, <a href="https://www.mcs.anl.gov/~tmunson/">Todd Munson</a>, <a href="https://kibaekkim.github.io">Kibaek Kim</a></p>
-  <p class="publication-meta">Under review at NeurIPS 2026</p>
-  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
-  <p><strong>Role:</strong></p>
-  <p><strong>Description:</strong></p>
-  <p><strong>BibTeX:</strong></p>
-  <pre><code>@article{TBD}</code></pre>
-  </div></details>
+  <p class="publication-meta">Under review at ICLR 2027</p>
 </article>
 
 <article class="publication-item">
   <div class="publication-heading">
     <span class="publication-badge">Under Review</span>
-    <span class="publication-title">Contextual Bandits for Generalization-Aware Local-Effort Assignment in Federated Learning</span>
+    <span class="publication-title">Adaptive local steps for federated learning ...</span>
   </div>
   <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://kibaekkim.github.io">Kibaek Kim</a></p>
-  <p class="publication-meta">Under review at NeurIPS 2026</p>
-  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
-  <p><strong>Role:</strong></p>
-  <p><strong>Description:</strong></p>
-  <p><strong>BibTeX:</strong></p>
-  <pre><code>@article{TBD}</code></pre>
-  </div></details>
+  <p class="publication-meta">Under review at ICLR 2027</p>
 </article>
 
 <article class="publication-item">
   <div class="publication-heading">
     <span class="publication-badge">Under Review</span>
-    <span class="publication-title">Differentially Private Collaborative Augmentation for Federated Sparse-View CT Reconstruction</span>
+    <span class="publication-title">Differentially-private federated artifacts augmentation for collaborative CT image reconstruction ...</span>
   </div>
   <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/mh-lee08/">Myoung Hoon Lee</a>, <a href="https://www.linkedin.com/in/hwi-jung-kim-2817a8277">Hwijung Kim</a>, <a href="https://scholar.google.com/citations?user=PCMjeNUAAAAJ">Jun-Seok Yun</a>, <a href="https://scholar.google.com/citations?user=HbR6oz8AAAAJ">Jong Pil Yun</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a></p>
   <p class="publication-meta">Under journal review</p>
-  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
-  <p><strong>Role:</strong></p>
-  <p><strong>Description:</strong></p>
-  <p><strong>BibTeX:</strong></p>
-  <pre><code>@article{TBD}</code></pre>
-  </div></details>
 </article>
 
 <article class="publication-item">
   <div class="publication-heading">
     <span class="publication-badge">Under Review</span>
-    <span class="publication-title">Cloud-Free Vegetation Index Estimation with Implicit Neural Representation for Multi-Resolution Heterogeneous Source Fusion</span>
+    <span class="publication-title">Implicit neural representation with multi-sensor fusion for vegetation index estimation ...</span>
   </div>
   <p class="publication-authors">Bokyung Son*, <span class="term-highlight">Seok-Ju Hahn</span>*, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a>, Jungho Im</p>
   <p class="publication-meta">Under journal review &middot; * equal contribution</p>
-  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
-  <p><strong>Role:</strong></p>
-  <p><strong>Description:</strong></p>
-  <p><strong>BibTeX:</strong></p>
-  <pre><code>@article{TBD}</code></pre>
-  </div></details>
 </article>
 
 </div>
@@ -93,17 +54,20 @@ toc: false
 
 <article class="publication-item">
   <div class="publication-heading">
+    <span class="publication-badge">Asilomar 2026</span>
+    <span class="publication-title">Uncertainty-Aware Token Pruning for Vision Transformers under Distribution Shift</span>
+  </div>
+  <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>*, <a href="https://www.linkedin.com/in/byeongwoo-an">Byeongwoo An</a>*, <a href="https://sites.google.com/view/eungjoolee/">Eungjoo Lee</a></p>
+  <p class="publication-meta">* equal contribution &middot; Oral</p>
+</article>
+
+<article class="publication-item">
+  <div class="publication-heading">
     <span class="publication-badge">NeurIPS 2025</span>
     <a class="publication-title" href="https://openreview.net/forum?id=1GCWcrZTX8">Diffusion Federated Datasets</a>
   </div>
   <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a></p>
-  <p class="publication-meta">Main track</p>
-  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
-  <p><strong>Role:</strong></p>
-  <p><strong>Description:</strong></p>
-  <p><strong>BibTeX:</strong></p>
-  <pre><code>@article{placeholder, title = {Placeholder}}</code></pre>
-  </div></details>
+  <p class="publication-meta">Poster &middot; Main track</p>
 </article>
 
 <article class="publication-item">
@@ -113,12 +77,6 @@ toc: false
   </div>
   <p class="publication-authors"><a href="https://sites.google.com/view/jaeho-kim">Jaeho Kim</a>, <span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://tsi-yoontae.github.io/#members">Yoontae Hwang</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a>, <a href="https://sites.google.com/view/seulkilee">Seulki Lee</a></p>
   <p class="publication-meta">Oral &middot; Research track</p>
-  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
-  <p><strong>Role:</strong></p>
-  <p><strong>Description:</strong></p>
-  <p><strong>BibTeX:</strong></p>
-  <pre><code>@article{placeholder, title = {Placeholder}}</code></pre>
-  </div></details>
 </article>
 
 <article class="publication-item">
@@ -127,13 +85,7 @@ toc: false
     <a class="publication-title" href="https://proceedings.mlr.press/v235/hahn24a.html">Pursuing Overall Welfare in Federated Learning through Sequential Decision Making</a>
   </div>
   <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://sdm.unist.ac.kr/professor/">Gi-Soo Kim</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a></p>
-  <p class="publication-meta">Main track</p>
-  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
-  <p><strong>Role:</strong></p>
-  <p><strong>Description:</strong></p>
-  <p><strong>BibTeX:</strong></p>
-  <pre><code>@article{placeholder, title = {Placeholder}}</code></pre>
-  </div></details>
+  <p class="publication-meta">Poster &middot; Main track</p>
 </article>
 
 <article class="publication-item">
@@ -143,12 +95,6 @@ toc: false
   </div>
   <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>, <a href="https://www.linkedin.com/in/minwoojeong">Minwoo Jeong</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a></p>
   <p class="publication-meta">Oral &middot; Research track</p>
-  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
-  <p><strong>Role:</strong></p>
-  <p><strong>Description:</strong></p>
-  <p><strong>BibTeX:</strong></p>
-  <pre><code>@article{placeholder, title = {Placeholder}}</code></pre>
-  </div></details>
 </article>
 
 <article class="publication-item">
@@ -158,12 +104,6 @@ toc: false
   </div>
   <p class="publication-authors"><span class="term-highlight">Seok-Ju Hahn</span>*, <a href="https://sites.google.com/view/suhyeon-kim/professor">Suhyeon Kim</a>*, <a href="https://www.linkedin.com/in/%EC%98%81%EC%8B%9D-%EC%B5%9C-278058239/">Young Sik Choi</a>, <a href="https://d3mlab.snu.ac.kr/members/professor">Junghye Lee</a>, <a href="https://scholar.google.com/citations?user=hk9Rh78AAAAJ">Jihun Kang</a></p>
   <p class="publication-meta">* equal contribution &middot; IF=11.1 &middot; Enlisted as "The One Who Honours Korea (Hanbitsa)" in 2022</p>
-  <details class="publication-details"><summary>Details</summary><div class="publication-detail-body">
-  <p><strong>Role:</strong></p>
-  <p><strong>Description:</strong></p>
-  <p><strong>BibTeX:</strong></p>
-  <pre><code>@article{placeholder, title = {Placeholder}}</code></pre>
-  </div></details>
 </article>
 
 </div>
